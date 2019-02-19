@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pUfo
+comment0.target=Asteroid(Ufo)
+comment1.params=
+comment1.target=double\ gibX()
+comment2.params=
+comment2.target=double\ gibY()
+comment3.params=
+comment3.target=void\ bewegeDich()
+numComments=4
