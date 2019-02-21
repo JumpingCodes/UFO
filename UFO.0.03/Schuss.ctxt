@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Schuss
+comment1.params=pUfo
+comment1.target=Schuss(Ufo)
+comment2.params=
+comment2.target=void\ los()
+comment3.params=
+comment3.target=void\ lock()
+comment4.params=x
+comment4.target=boolean\ checkDistanz(java.lang.Object)
+comment5.params=
+comment5.target=double\ gibX()
+comment6.params=
+comment6.target=double\ gibY()
+numComments=7
