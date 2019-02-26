@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment1.params=pUfo\ pSchuss\ pUfospiel
+comment1.target=Asteroid(Ufo,\ Schuss,\ Ufospiel)
+comment2.params=
+comment2.target=double\ gibX()
+comment3.params=
+comment3.target=double\ gibY()
+comment4.params=
+comment4.target=boolean\ checkDistanz()
+comment5.params=
+comment5.target=boolean\ checkDistanzLazer()
+comment6.params=s
+comment6.target=void\ bewegeDich(double)
+numComments=7

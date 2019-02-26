@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ufospiel
+comment1.params=
+comment1.target=Ufospiel()
+comment2.params=X
+comment2.target=void\ destroy(java.lang.Object)
+comment3.params=
+comment3.target=void\ fuehreAus()
+numComments=4
